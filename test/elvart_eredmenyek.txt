@@ -1,0 +1,4 @@
+teszt1: minden projekt megjelen�t�se
+teszt2: Csak azoknak a teszteknek a megjelen�t�se, ahol legal�bb 90 ember van. Az 1. teszttel �sszehasonl�tva k�nnyven l�that� az eredm�ny. K�zben tesztelem azt, hogy fel�l�rja-e a r�gi f�jlt.
+teszt3: Megford�tom a param�terek sorrendj�t, fel�l�rom a r�gi f�jlt, tov�bb sz�k�tem a projektek list�j�t.
+teszt4: Egy �res list�ra v�rok, hiszen ennyi ember egy projekten sem dolgozik.
